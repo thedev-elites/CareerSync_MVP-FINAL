@@ -143,30 +143,13 @@ CareerSync AI is an intelligent job application platform designed to revolutioni
   - Built core API routes and services
   - Find out the ChatGPT 4o API To Enhance the form Filling Part by ChatGPT Processing
 
-### Contributors
-
-- **Rahul Sharma**:
-  - Worked on hackathon presentation
-  - Conducted research and testing
-  - Provided user feedback for platform improvement
-
-- **Mansi Yadav**:
-  - Assisted with hackathon presentation materials
-  - Participated in testing and quality assurance
-  - Provided user experience feedback
-
-- **Abhishek**:
-  - Contributed to research and testing
-  - Acted as a feedback user for platform refinement
-  - Assisted with documentation
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🏆 Hackathon Project
 
-This project was created for the ITM University Gwalior Hackathon. We aimed to solve the problem of inefficient job searching and application processes by leveraging AI and automation technologies.
+This project was created for the Hackathon. We aimed to solve the problem of inefficient job searching and application processes by leveraging AI and automation technologies.
 
 ## 🙏 Acknowledgements
 
